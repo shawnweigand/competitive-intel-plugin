@@ -1,16 +1,16 @@
 {
-  "name": "competitive-intel-plugin",
+  "name": "shawnbuildsai-plugins",
   "owner": {
     "name": "Shawn Weigand"
   },
   "metadata": {
-    "description": "Weekly competitive intelligence digest for Claude Cowork — research competitors, surface product updates, pricing changes, and events, then deliver a structured digest with cross-competitor analysis.",
+    "description": "A collection of powerful Claude plugins from shawnbuildsai to enhance your workflow.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "competitive-intel",
-      "source": "./",
+      "source": "./plugins/competitive-research",
       "description": "Run weekly competitive intelligence digests. Research competitor websites, surface recent posts, product updates, pricing changes, and events, then get a structured digest with positioning gaps, feature gaps, and strategic direction."
     }
   ]
