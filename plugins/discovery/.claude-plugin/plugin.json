@@ -1,0 +1,11 @@
+{
+  "name": "discovery-plugin",
+  "version": "1.0.0",
+  "description": "Discovery phase of AutoMates.",
+  "author": {
+    "name": "Shawn Weigand"
+  },
+  "keywords": [
+    "discovery"
+  ]
+}

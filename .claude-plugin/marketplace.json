@@ -1,5 +1,5 @@
 {
-  "name": "shawnbuildsai-plugins",
+  "name": "automates-plugins",
   "owner": {
     "name": "Shawn Weigand"
   },
@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "competitive-intel",
-      "source": "./plugins/competitive-research",
-      "description": "Run weekly competitive intelligence digests. Research competitor websites, surface recent posts, product updates, pricing changes, and events, then get a structured digest with positioning gaps, feature gaps, and strategic direction."
+      "name": "discovery-plugin",
+      "source": "./plugins/discovery",
+      "description": "Discovery phase of AutoMates."
     }
   ]
 }
